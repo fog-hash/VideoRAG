@@ -71,7 +71,7 @@ Requires GPU for efficient processing.
 Depends on the quality of the video and audio for accurate transcription and captioning.
 Limited to English transcription and text-based queries.
 
-### Examples
+### Author
 Edward Wu for INFO 5940 Final Project, Group 1
 
 
